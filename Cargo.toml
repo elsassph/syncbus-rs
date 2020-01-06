@@ -1,0 +1,11 @@
+[package]
+name = "syncbus"
+version = "0.1.0"
+authors = ["Philippe Elsass <philippe.elsass@gmail/com>"]
+edition = "2018"
+repository = "https://github.com/elsassph/syncbus-rs"
+license = "ISC"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
